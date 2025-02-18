@@ -2,16 +2,6 @@
 
 A simple password manager built using Python's Tkinter library. This project allows users to generate secure passwords, store credentials (website, email/username, and password) in a JSON file, and search for stored credentials.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [File Structure](#file-structure)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
